@@ -1,2 +1,2 @@
-# Assembly
-8086 family
+# ENSAMBLADOR
+Familia de procesadores 8086
