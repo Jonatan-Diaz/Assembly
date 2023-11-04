@@ -1,2 +1,2 @@
 # ENSAMBLADOR
-Familia de procesadores 8086/8088
+Para familia de procesadores Intel 8086/8088 de 16 bits.
